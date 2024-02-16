@@ -1,4 +1,6 @@
-# Hi there, I'm Francesco 👋
+# 👋 Ciao, fellow coder! I'm Francesco, 
+Italian 🇮🇹 (Proudly Calabrian🌶️) Computer Science student 🎓 with a passion for turning coffee ☕ into code 💻.
+
 
 ## 👨‍💻 About Me
 - 🎓 Bachelor in Computer Science at [USI](https://www.usi.ch/it) (Università della Svizzera italiana) in Lugano, Switzerland 🇨🇭
@@ -6,17 +8,15 @@
 - 🤔 Interested in Software Development, FinTech, Finance and Data Science.
 
 
-
-<!-- 
 ## 🛠️ Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
---> 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Android SDK](https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/francesco-caglianone-ba9210210)
