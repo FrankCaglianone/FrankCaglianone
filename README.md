@@ -18,25 +18,28 @@ Italian 🇮🇹 (Proudly Calabrian🌶️) Computer Science student 🎓 with a
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+
+## 📈 GitHub Stats
+<p align="middle">
+    <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrankCaglianone&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height=180px/>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankCaglianone&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
+</p>
+ 
+
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/francesco-caglianone-ba9210210)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1csiksecg3zy&utm_content=pq3vi8)
 
 
 <!-- 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankCaglianone&show_icons=true&theme=radical)
---> 
-
-<!-- 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name)](https://github.com/yourusername/repository-name)
 -->
 
-
+<!-- 
 ### ⭐ GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FrankCaglianone&theme=onedark)
-
+-->
 
 <!-- 
 ## 🏆 GitHub Streak Stats
