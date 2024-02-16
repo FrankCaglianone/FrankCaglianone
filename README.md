@@ -18,13 +18,13 @@ Italian 🇮🇹 (Proudly Calabrian🌶️) Computer Science student 🎓 with a
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## GitHub Stats
+## 📈 My GitHub Stats
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrankCaglianone&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" />
+    <td style="border: none !important; padding: 0;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrankCaglianone&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&theme=tokyonight" />
     </td>
-    <td>
+    <td style="border: none !important; padding: 0;">
       <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankCaglianone&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" />
     </td>
   </tr>
