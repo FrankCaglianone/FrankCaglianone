@@ -1,14 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Francesco 👋
 
 ## 👨‍💻 About Me
-- 🎓 I'm currently studying [Your Major] at [Your University]
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [What You're Learning]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🎓 Bachelor in Computer Science at [USI](https://www.usi.ch/it) (Università della Svizzera italiana) in Lugano, Switzerland 🇨🇭
+- 🎓 Exchange Student in GBI (Global Business Informatics) at [ITU](https://itu.dk/) (IT-Universitetet) in Copenhagen, Denmark 🇩🇰
+- 🤔 Interested in Software Development, FinTech, Finance and Data Science.
+
 
 
 <!-- 
@@ -22,9 +18,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 --> 
 
-## 🔗 Connect with me:
+### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/francesco-caglianone-ba9210210)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1csiksecg3zy&utm_content=pq3vi8)
 
 
 <!-- 
@@ -38,12 +34,12 @@
 -->
 
 
-## ⭐ GitHub Trophies
+### ⭐ GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=FrankCaglianone&theme=onedark)
 
 
+<!-- 
 ## 🏆 GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
-<!-- Replace 'yourusername' with your GitHub username and 'repository-name' with your repository -->
+-->
 
