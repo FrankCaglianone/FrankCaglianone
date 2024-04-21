@@ -32,7 +32,7 @@ Italian 🇮🇹 (Proudly Calabrian🌶️) Computer Science student 🎓 with a
  
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/francesco-caglianone-ba9210210)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-caglianone-ba9210210)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1csiksecg3zy&utm_content=pq3vi8)
 
 
