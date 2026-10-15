@@ -16,7 +16,11 @@
 
 ## 🚀 What I do
 
-- 🧠 **AI Lead for the Middle East at [Seidor](https://www.seidor.com)**: I lead Seidor's AI initiatives across the region, from strategy to deployment.
+- 🧠 **AI Lead for the Middle East at [Seidor](https://www.seidor.com)**, the global technology consultancy. I own AI for the region, end to end:
+  - 🧭 **Strategy**: working with client leadership to find the AI use cases that move the needle and build the roadmap to deliver them
+  - 🛠️ **Delivery**: taking those use cases from proof of concept to production (GenAI assistants, AI agents, intelligent automation), integrated with the enterprise systems clients already run
+  - 🤝 **Growth**: shaping Seidor's AI offering in the Middle East, leading pre-sales and solution design, and representing the practice with clients and partners
+  - 👥 **Adoption**: training teams and driving change so AI actually gets used, not just deployed
 - 🔥 **Working with [Ignite Strategies LLC (Ignitx)](https://ignitx.ai)** to bring AI into companies of every size:
   - 🎬 **Ignitx Studios**: AI video and content production (e.g. AI avatar training videos)
   - 🧪 **[Ignitx Labs](https://github.com/Ignitx-Labs)**: custom AI builds, agents and automations
@@ -31,11 +35,6 @@
 | ⚙️ **AI Automation** | Turning manual business processes into AI-powered workflows |
 | 🏢 **AI Transformation** | Helping teams adopt AI and actually get value from it |
 | 🎥 **AI Content** | Avatar videos and AI-generated media at production scale |
-
-## 🎓 Background
-
-- 🎓 Bachelor in Computer Science at [USI](https://www.usi.ch) (Università della Svizzera italiana), Lugano 🇨🇭
-- 🎓 Exchange in Global Business Informatics at [ITU](https://itu.dk/) (IT-Universitetet), Copenhagen 🇩🇰
 
 ## 🛠️ Tech stack
 
