@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Francesco 👋</h1>
-<h3 align="center">AI Lead, Middle East @ Sador · Bringing AI into real businesses</h3>
+<h3 align="center">AI Lead, Middle East @ Seidor · Bringing AI into real businesses</h3>
 
 <p align="center">
   🇮🇹 Italian (proudly Calabrian 🌶️) · based in Dubai 🇦🇪
@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://francescocaglianone.com"><img src="https://img.shields.io/badge/Website-francescocaglianone.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.seidor.com"><img src="https://img.shields.io/badge/Seidor-AI_Lead_ME-0033A0?style=for-the-badge&logoColor=white" /></a>
   <a href="https://ignitx.ai"><img src="https://img.shields.io/badge/Ignitx-ignitx.ai-FF5A1F?style=for-the-badge&logo=fireship&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/francesco-caglianone-ba9210210"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -15,7 +16,7 @@
 
 ## 🚀 What I do
 
-- 🧠 **AI Lead for the Middle East at Sador**: I lead AI initiatives across the region, from strategy to deployment.
+- 🧠 **AI Lead for the Middle East at [Seidor](https://www.seidor.com)**: I lead Seidor's AI initiatives across the region, from strategy to deployment.
 - 🔥 **Working with [Ignite Strategies LLC (Ignitx)](https://ignitx.ai)** to bring AI into companies of every size:
   - 🎬 **Ignitx Studios**: AI video and content production (e.g. AI avatar training videos)
   - 🧪 **[Ignitx Labs](https://github.com/Ignitx-Labs)**: custom AI builds, agents and automations
